@@ -36,7 +36,7 @@ const ResumeAnalyzer: React.FC = () => {
         {/* Call-to-Action Section */}
         <section className="text-center">
           <a
-            href="https://resumeanalyzer-iota.vercel.app/"
+            href="https://resume-analyse-taupe.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-blue-600 text-white px-6 py-3 rounded-lg shadow-md hover:bg-blue-700 transition duration-300"
